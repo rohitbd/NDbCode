@@ -1,0 +1,8 @@
+H:\Projects\NoDatabase\TestNoDatabase\bin\Debug\TestNoDatabase.exe
+H:\Projects\NoDatabase\TestNoDatabase\bin\Debug\TestNoDatabase.pdb
+H:\Projects\NoDatabase\TestNoDatabase\bin\Debug\NoDatabase.dll
+H:\Projects\NoDatabase\TestNoDatabase\bin\Debug\NoDatabase.pdb
+H:\Projects\NoDatabase\TestNoDatabase\obj\Debug\TestNoDatabase.csprojResolveAssemblyReference.cache
+H:\Projects\NoDatabase\TestNoDatabase\obj\Debug\TestNoDatabase.exe
+H:\Projects\NoDatabase\TestNoDatabase\obj\Debug\TestNoDatabase.pdb
+H:\Projects\NoDatabase\TestNoDatabase\bin\Debug\StorageCore.dll
